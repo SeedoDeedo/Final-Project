@@ -4,10 +4,9 @@
   "description": "final project csc",
   "main": "finalcsc.js",
   "scripts": {
-    "start": "node finalcsc.js",
+    "start": "node your-script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
     },
-   
   
   "repository": {
     "type": "git",
