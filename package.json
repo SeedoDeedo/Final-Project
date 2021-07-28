@@ -5,7 +5,8 @@
   "main": "finalcsc.js",
   "scripts": {
     "start": "finalcsc.js"
-  },
+    },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SeedoDeedo/Final-Project.git"
