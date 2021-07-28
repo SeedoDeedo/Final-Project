@@ -2,7 +2,7 @@
   "name": "finalprojectcsc",
   "version": "1.0.0",
   "description": "Final Project CSC 227 0001",
-  "main": "finalcsc.js",
+  "main": "finalcsc.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
