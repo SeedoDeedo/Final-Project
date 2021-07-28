@@ -4,7 +4,7 @@
   "description": "Final Project CSC 227 0001",
   "main": "finalcsc.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node finalcsc.js"
   },
   "repository": {
     "type": "git",
