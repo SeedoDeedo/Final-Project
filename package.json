@@ -1,0 +1,20 @@
+{
+  "name": "chameleon-final-csc227",
+  "version": "1.0.0",
+  "description": "Final Project CSC 227-0001",
+  "main": "chambasiccsc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node chambasiccsc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeedoDeedo/Final-Project.git"
+  },
+  "author": "Saeed Haddad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeedoDeedo/Final-Project/issues"
+  },
+  "homepage": "https://github.com/SeedoDeedo/Final-Project#readme"
+}
